@@ -1,0 +1,2 @@
+# B4M1_Python_Doc_Sphinx
+Pythonコードのドキュメンテーション文字列から、Sphinxでマニュアルを作る
